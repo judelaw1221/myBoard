@@ -1,0 +1,2 @@
+insert into Board (board_id, board_contents, board_name, board_writer) values (0, 'aaaaaaaa','bbbbbbbbb','cccccccccccc');
+insert into Board (board_id, board_contents, board_name, board_writer) values (1, 'aaaaa11aaa','bb2b2bbbbbb','ccc333ccccccccc');
